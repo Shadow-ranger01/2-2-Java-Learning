@@ -1,4 +1,4 @@
-this is my 2-2 JAVA programming learning rep and i am java is my 3rd language and 
+This is my 2-2 JAVA programming learning rep and I'm learning java as my 3rd language and 
 next i will focous on the SQL i know it is not the good of a programming language
 but trying my best to improve it;
 
