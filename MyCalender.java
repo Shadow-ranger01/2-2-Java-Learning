@@ -7,7 +7,7 @@ public class MyCalendar {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // Get user input - kept it simple
+        // Get user input
         System.out.print("Enter year (e.g., 2026): ");
         int year = input.nextInt();
 
