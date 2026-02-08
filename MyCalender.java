@@ -24,7 +24,7 @@ public class MyCalendar {
 
         String monthName = getMonthName(month);
 
-        // Header for the UI
+        // Header UI
         System.out.println("\n      " + monthName + " " + year);
         System.out.println("---------------------------");
         System.out.println(" Sun Mon Tue Wed Thu Fri Sat");
