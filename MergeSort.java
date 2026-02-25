@@ -45,7 +45,9 @@ public class MergeSort { //class name will be different
 
     public static void main(String[] args) {
         int[] arr = {12, 11, 13, 5, 6, 7};
+      
         sort(arr, 0, arr.length - 1);
+      
         System.out.println("Sorted: " + java.util.Arrays.toString(arr));
     }
 }
