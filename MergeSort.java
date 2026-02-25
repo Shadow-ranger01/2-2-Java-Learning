@@ -1,4 +1,4 @@
-public class MergeSort {
+public class MergeSort { //class name will be different 
     public static void sort(int[] arr, int l, int r) {
         if (l < r) {
             int m = l + (r - l) / 2;
