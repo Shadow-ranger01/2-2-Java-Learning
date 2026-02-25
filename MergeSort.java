@@ -30,6 +30,7 @@ public class MergeSort { //class name will be different
         // Merge the temp arrays
         int i = 0, j = 0, k = l;
         while (i < n1 && j < n2) {
+           
             if (L[i] <= R[j]) {
                 arr[k] = L[i++];
             } else {
